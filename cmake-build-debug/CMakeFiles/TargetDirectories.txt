@@ -1,0 +1,3 @@
+C:/Users/prayu/Desktop/CPP_MYSQL_CONNECTOR/cmake-build-debug/CMakeFiles/CPP_MYSQL_CONNECTOR.dir
+C:/Users/prayu/Desktop/CPP_MYSQL_CONNECTOR/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/prayu/Desktop/CPP_MYSQL_CONNECTOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
