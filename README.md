@@ -58,7 +58,7 @@ Follow the on-screen menu to perform database operations.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/CPP_MYSQL_CONNECTOR/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/adhikareeprayush/CPP_MYSQL_CONNECTOR/issues).
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -68,7 +68,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 ## 📝 License
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is [MIT](LICENSE) licensed.
 
 ## ⚠️ Disclaimer
 
